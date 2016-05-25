@@ -1,0 +1,7 @@
+safe: true
+markdown: rdiscount
+permalink: pretty
+name : Human Development Index Exploror
+baseurl: http://tadkim/github.io/hdi-explorer
+github: http://github.com/tadkim/hdi-explorer.git
+
